@@ -1,0 +1,1 @@
+<ConfigSync.kt content as inserted above>
